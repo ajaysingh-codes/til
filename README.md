@@ -32,7 +32,7 @@ As a recent graduate working in AI/ML research and pursuing cloud certifications
 ## Stats
 
 - **Total TILs:** 1
-- **Current Streak:** 1 day
+- **Current Streak:** 2 days
 - **Last Updated:** November 13, 2025
 
 ---

@@ -4,8 +4,8 @@ A collection of concise write-ups documenting my daily learning journey across v
 
 ## Categories
 
-### 🤖 [MCP (Model Context Protocol)](./mcp)
-- [Introduction to MCP Servers](mcp/intro-to-mcp-servers.md) - Understanding MCP protocols, building custom servers, and connecting AI agents to tools and resources
+### 🤖 [MCP (Model Context Protocol)](./MCP)
+- [MCP Resources & Prompts Guide](MCP/README.md) - Understanding MCP resources and prompts, building custom servers, and connecting AI agents to tools
 
 ### ☁️ Cloud & DevOps _(coming soon)_
 - GCP certification journey
@@ -32,8 +32,8 @@ As a recent graduate working in AI/ML research and pursuing cloud certifications
 ## Stats
 
 - **Total TILs:** 1
-- **Current Streak:** 1 day
-- **Last Updated:** November 11, 2025
+- **Current Streak:** 2 days
+- **Last Updated:** November 13, 2025
 
 ---
 

@@ -1,5 +1,28 @@
 # Cursor: AI-First Code Editor
 
+> **🟢 Beginner** | ⏱️ 15 minutes | [Quick Reference](cursor-cheatsheet.md)
+
+## Overview
+
+Cursor is a fork of VS Code designed specifically for AI-powered development. This guide covers essential features, best practices, and advanced customization.
+
+### Prerequisites
+- Basic coding experience in any language
+- Familiarity with VS Code (helpful but not required)
+- Understanding of what LLMs (AI models) are
+
+### What You'll Learn
+- Three core Cursor features: Inline Edit, Chat, and Agent
+- Context engineering principles for better AI interactions
+- Model selection strategies (Sonnet, Gemini, GPT)
+- Cursor Rules for project-specific AI behavior
+- Background agents for asynchronous work
+- MCP server integration
+
+### Related Topics
+- [Claude Code](claude-code.md) - CLI-based AI pair programming
+- [MCP](../MCP/README.md) - Extend LLMs with custom tools
+
 ## 1. Core Principles: Context Engineering
 
 Before diving into the tools, it's essential to understand that AI models are not stateful and have a limited "context window." Effective AI interaction, or **context engineering**, is key.

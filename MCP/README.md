@@ -1,6 +1,23 @@
 # MCP Resources & Prompts Guide
 
+> **🟡 Intermediate** | ⏱️ 25 minutes | [Quick Reference](mcp-cheatsheet.md)
+
+## Overview
+
 This document contains notes and examples for working with MCP (Model Context Protocol) Resources and Prompts.
+
+### Prerequisites
+- Basic JavaScript/Node.js knowledge
+- Understanding of async/await patterns
+- Familiarity with package managers (npm/pnpm)
+- Basic understanding of LLMs (Large Language Models)
+
+### What You'll Learn
+- Difference between MCP Resources, Prompts, and Tools
+- How to build custom MCP servers
+- When to use Resources vs Prompts
+- Practical examples with database schemas and code reviews
+- ES Module patterns for MCP development
 
 ## MCP Resources
 

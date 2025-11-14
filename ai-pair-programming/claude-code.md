@@ -1,6 +1,29 @@
 # Claude Code
 
+> **🟡 Intermediate** | ⏱️ 20 minutes | [Quick Reference](claude-code-cheatsheet.md)
+
+## Overview
+
 A comprehensive guide to using Claude Code for AI pair programming.
+
+### Prerequisites
+- Basic command line knowledge
+- Familiarity with git workflows
+- Experience with at least one code editor
+- Understanding of basic programming concepts
+
+### What You'll Learn
+- Claude Code's thinking modes for complex reasoning
+- Context management strategies
+- Memory system with claude.md files
+- Hooks for lifecycle automation
+- Subagents for specialized tasks
+- Git worktrees for parallel development
+- One-shot commands for CI/CD integration
+
+### Related Topics
+- [Cursor](cursor.md) - Alternative AI code editor
+- [MCP](../MCP/README.md) - Extend Claude with custom tools
 
 ## Getting Started
 

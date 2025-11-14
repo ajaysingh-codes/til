@@ -13,6 +13,15 @@ Comprehensive guide to using Claude Code for AI pair programming, including:
 - Subagents and their best practices
 - Git worktrees for parallel development
 
+### [Cursor](cursor.md)
+Guide to Cursor, the AI-first code editor, covering:
+- Core principles of context engineering
+- Key features: Inline Edit, AI Chat, Agent, and Mirroring
+- Choosing the right model for different tasks
+- Advanced customization with Cursor Rules
+- Background Agents for asynchronous work
+- MCP Server integration for extended capabilities
+
 ## Overview
 
 This directory contains my notes and learnings on various AI pair programming tools, with a focus on:

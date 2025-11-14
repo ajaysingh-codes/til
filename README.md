@@ -7,6 +7,9 @@ A collection of concise write-ups documenting my daily learning journey across v
 ### 🤖 [MCP (Model Context Protocol)](./MCP)
 - [MCP Resources & Prompts Guide](MCP/README.md) - Understanding MCP resources and prompts, building custom servers, and connecting AI agents to tools
 
+### 🤝 [AI Pair Programming](./ai-pair-programming)
+- [Claude Code Guide](ai-pair-programming/claude-code.md) - Complete guide to using Claude Code for AI pair programming, including thinking modes, context management, hooks, and subagents
+
 ### ☁️ Cloud & DevOps _(coming soon)_
 - GCP certification journey
 - Infrastructure as Code
@@ -31,9 +34,9 @@ As a recent graduate working in AI/ML research and pursuing cloud certifications
 
 ## Stats
 
-- **Total TILs:** 1
-- **Current Streak:** 2 days
-- **Last Updated:** November 13, 2025
+- **Total TILs:** 2
+- **Current Streak:** 3 days
+- **Last Updated:** November 14, 2025
 
 ---
 
